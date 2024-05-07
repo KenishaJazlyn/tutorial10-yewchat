@@ -1,14 +1,8 @@
 ![alt text](image.png)
 ![alt text](image-1.png)
 
-
-
-
-
-
-
-
-
+![alt text](image-2.png)
+I changed the background color to #ECF3F1 and #FFFBE7, and the afatar 
 
 
 # YewChat 💬
